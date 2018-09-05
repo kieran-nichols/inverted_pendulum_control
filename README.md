@@ -1,1 +1,1 @@
-# CS-229
+# inverted_pendulum_control
